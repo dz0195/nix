@@ -1,0 +1,1 @@
+"java.exe" -jar "%C:\Program Files\Oracle\JavaFX Scene Builder 1.0\lib\SceneBuilder.jar" %*
